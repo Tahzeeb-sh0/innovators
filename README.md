@@ -1,4 +1,4 @@
 # innovators
 this repo for my hackathon 
 <br>
-Author-tahzeeb shaikh
+<b>Author-</b>tahzeeb shaikh
